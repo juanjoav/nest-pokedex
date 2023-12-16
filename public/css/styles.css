@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 2rem 0;
+    width: 100%;
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 300;
+    text-align: center;
+    text-transform: uppercase;
+    color: aquamarine;
+}
